@@ -1,17 +1,18 @@
 {
   "name": "managing-a-component-tree-practice",
   "version": "1.0.0",
-  "description": "",
+  "description": "Created with CodeSandbox",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "gh-pages": "3.1.0",
+    "express": "^4.17.1",
     "npm": "6.14.11",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-scripts": "4.0.1"
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "typescript": "3.3.3"
   },
   "scripts": {
@@ -28,5 +29,14 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://adisa-stack1.github.io/to-do-list/"
+  "homepage": "https://adisa-stack1.github.io/to-do-list/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adisa-stack1/to-do-list.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adisa-stack1/to-do-list/issues"
+  }
 }
